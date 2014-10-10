@@ -8,7 +8,7 @@ public class Hello {
     String colour = scnr.next();
     System.out.println(colour + " is my favourite colour too!");
     System.out.println(" ");
-    System.out.println("Do you have pet?");
+    System.out.println("What pet do you have?");
     String pet = scnr.next();
     System.out.println("I have a " + pet + " too!");
     
